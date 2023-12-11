@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/czy/new_space/Network_Programming/05",
-      "program": "/home/czy/new_space/Network_Programming/05/build/Debug/outDebug",
+      "cwd": "/home/czy/new_space/Network_Programming/06",
+      "program": "/home/czy/new_space/Network_Programming/06/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
